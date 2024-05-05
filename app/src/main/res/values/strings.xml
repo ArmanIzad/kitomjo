@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">KiTomJo your delivery expert</string>
+    <string name="base_delivery_cost">Base delivery cost</string>
+    <string name="vehicle_max_speed">Max speed (km/hr)</string>
+    <string name="vehicle_max_load">Max load (kg)</string>
+    <string name="add_vehicle">Add vehicle</string>
+    <string name="add_package">Add package</string>
+    <string name="calculate_trips">Calculate trips</string>
+    <string name="package_weight">Package weight (kg)</string>
+    <string name="delivery_distance">Delivery distance (km)</string>
+    <string name="offer_code">Offer code</string>
+    <string name="delivery_price">Delivery price</string>
+    <string name="delivery_time">Delivery time (hrs)</string>
+    <string name="vehicle_id">Vehicle ID</string>
+    <string name="package_id">Package ID</string>
+    <string name="error_no_available_vehicle">No vehicle is available for delivery</string>
+    <string name="error_no_base_delivery_cost">Invalid base delivery cost</string>
+    <!--    Content descriptions-->
+    <string name="cd_base_delivery_cost">Base delivery cost text field</string>
+    <string name="cd_base_delivery_cost_error">Base delivery cost text field error</string>
+    <string name="cd_add_vehicle">Add vehicle button</string>
+    <string name="cd_vehicle_row">Vehicle row %d</string>
+    <string name="cd_vehicle_max_speed">Max speed text field</string>
+    <string name="cd_vehicle_max_load">Max load text field</string>
+    <string name="cd_add_package">Add package button</string>
+    <string name="cd_confirm_button">Confirm</string>
+    <string name="cd_package_row">Package row %d</string>
+    <string name="cd_package_weight">Package weight text field</string>
+    <string name="cd_delivery_distance">Delivery distance text field</string>
+    <string name="cd_offer_code">Offer code text field</string>
+    <string name="cd_calculate_trips">Calculate trips button</string>
+    <string name="cd_trips_row">Trips row %d</string>
+    <string name="cd_trips_error">Calculate trip error message</string>
+    <string name="cd_scroll_container">scroll container</string>
+</resources>
